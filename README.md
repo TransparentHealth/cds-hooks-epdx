@@ -1,6 +1,9 @@
 # Da Vinci ePDX cds-hooks
 
 This repository is to capture content for the ePDx CDS-Hook Implementation.
+This is based on the CDS-Hooks 1.0 Specification:
+
+    https://cds-hooks.org
 
 ## ePayer Data Exchange (ePDx)
 
